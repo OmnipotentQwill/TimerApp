@@ -1,2 +1,2 @@
 # TimerApp
-This is a native macOS app! The goal and purpose of the app is to help users keep track of time. This app is NOT meant to replace apples "Clock" app. This is my own implementation with a separate goal of making people more aware of the time passing! Not just another clock app that just tracks time. 
+A native timer app for macOS! Written in swift to fully optimize for macOS with apple sillcon! This app is NOT just another clock app but rather has the unique goal of helping the user track passing time. The current implementation is quite simple but hopfully in the future will turn into an useful app for many! 
