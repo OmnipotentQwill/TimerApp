@@ -20,7 +20,7 @@ Currently as I am new to coding and still setting everything up. To install this
 
 These features are ideas or future plans for the app but none are guaranteed to be implmented. Statuses for feature development will be posted at a later date! 
 
-- More settings
+- More settings!~
 - Setting that allows the gear to be hidden until the mouse is hovering over it.
 - Setting that allows the user to change the noise after the timer ends to any mp3 audio file they choose.
 - Setting that allows the user to turn the sound after the timer ends off
