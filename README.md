@@ -6,6 +6,6 @@ Native macOS time app! Written fully is swift for the best perfomance with Apple
   <img width="300" height="220" alt="App" src="https://github.com/user-attachments/assets/9f655a44-f14a-477d-8666-e93ac83671c8" />
 </p>
 
-# Installtion
+# Installation
 
 Currently as I am new to coding and still setting everything up. To install this app you will need to just copy the code files and put them into Xcode yourself to use etc... In the furture I will have packages to install and git for easy modfications via merge request. I'm a noob when it comes to all this so please be patient and kind :)
