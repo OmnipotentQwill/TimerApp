@@ -8,4 +8,4 @@ Native macOS time app! Written fully is swift for the best perfomance with Apple
 
 # Installation
 
-Currently as I am new to coding and still setting everything up. To install this app you will need to just copy the code files and put them into Xcode yourself to use etc... In the furture I will have packages to install and git for easy modfications via merge request. I'm a noob when it comes to all this so please be patient and kind :)
+Currently as I am new to coding and still setting everything up. To install this app you will need to just copy the code files and put them into Xcode yourself to use etc... In the future I will have the packages to install and git for easy modfications via merge requests. I'm new to coding and all of this so please be kind and patient :)
