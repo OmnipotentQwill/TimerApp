@@ -5,3 +5,5 @@ Native macOS time app! Written fully is swift for the best perfomance with Apple
 <p align="center">
   <img width="300" height="220" alt="App" src="https://github.com/user-attachments/assets/9f655a44-f14a-477d-8666-e93ac83671c8" />
 </p>
+
+# TimerApp
