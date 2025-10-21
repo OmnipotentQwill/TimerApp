@@ -14,20 +14,20 @@ Currently as I am new to coding and still setting everything up. To install this
 
 - Basic timer that automatally starts counting after it's ended
 - Start and restart button
-o The start button starts the timer. self explsiantory 
+o The start button starts the timer. self explanatory
 o The restart button stops the timer and restarts it back to 0:00
 - Setting that allows the user to change the one minute timer up to 60 minutes.
 
 # Wish list features
 
-These features are ideas or future plans for the app but none are guarantee to be implmented. Statuses for feature development will be posted at a later date. 
+These features are ideas or future plans for the app but none are guaranteed to be implmented. Statuses for feature development will be posted at a later date! 
 
 - More settings
-  o Setting that allows the gear to be hidden until the mouse is hovering over it.
-  o Setting that allows the user to change the noise after the timer ends to any mp3 audio file they choose.
-  o Setting that allows the user to turn the sound after the timer ends off
-  o Setting that allows the user to change the animation of the gear
-  o Setting that adds menu bar functionaility.
-  o Setting that gets rid of the main window process while the app lives purly in the menu bar!
+   Setting that allows the gear to be hidden until the mouse is hovering over it.
+   Setting that allows the user to change the noise after the timer ends to any mp3 audio file they choose.
+   Setting that allows the user to turn the sound after the timer ends off
+   Setting that allows the user to change the animation of the gear when clicked
+   Setting that adds menu bar functionaility!
+   Setting that gets rid of the main window process while the app lives purly in the menu bar!
 
 - Adopt liquid glass 
